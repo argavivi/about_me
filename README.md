@@ -6,8 +6,8 @@ My skills:
   • python 🐍 |
   • javascript (node js) |
   • c# (unity or not) |
-  • c 🤓☝️
-  • AI (both tensorflow or my own neoral network :3) 🤖
+  • c 🤓☝️ |
+  • AI (both tensorflow or my own neoral network :3) 🤖 |
 ----------------------------------------------------------------------------------------
 personal interests:
   • pokemon (especially sylveon) |
