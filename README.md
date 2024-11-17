@@ -17,3 +17,4 @@ Personal interests:
 Escolarity:
   • Harvard University (c50) |
   • Alura |
+----------------------------------------------------------------------------------------
