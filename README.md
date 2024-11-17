@@ -9,8 +9,11 @@ My skills:
   • c 🤓☝️ |
   • AI (both tensorflow or my own neoral network :3) 🤖 |
 ----------------------------------------------------------------------------------------
-personal interests:
+Personal interests:
   • pokemon (especially sylveon) |
   • pc building |
   • robots (the silly ones :3) |
 ----------------------------------------------------------------------------------------
+Escolarity:
+  • Harvard University (c50) |
+  • Alura |
